@@ -61,6 +61,7 @@ font-family: var(--fuente);
     display: flex;
     flex-direction: column;
     align-items: center;
+  font-family: var(--fuente);
   }
   
   .Diseno img{
