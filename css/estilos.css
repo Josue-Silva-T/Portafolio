@@ -82,3 +82,9 @@ font-family: var(--fuente);
 .info p b{
   font-size: 18px;
 }
+.contenido{
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: var(--fuente); 
+}
